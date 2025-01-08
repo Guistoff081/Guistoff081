@@ -15,21 +15,23 @@
 <hr>
 <div align="left">
  <h3>📊 Github Analytics</h3>
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=Guistoff081&show_icons=true&theme=dracula" /> 
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Guistoff081&layout=compact&theme=dracula"/>
+  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=Guistoff081&count_private=true&show_icons=true&theme=dracula&bg_color=DEG,78b6b7,124266,021127" alt="Guistoff081" />
+  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Guistoff081&layout=donut&theme=dracula&bg_color=DEG,021127,124266,78b6b7&size_weight=0.5&count_weight=0.5"/>
 </div>
 <hr>
 
 <div align="left" style="display:inline_block">
   <h3>🛠️ Languages and Tools</h3>
   <img align="center" alt="Ruby" height="40" width="40" src="https://www.svgrepo.com/show/374055/ruby.svg">
-  <img align="center" alt="Javascript" height="40" width="40" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
+  <img align="center" alt="Rails" height="40" width="40" src="https://www.svgrepo.com/show/354252/rails.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://www.svgrepo.com/show/354478/typescript-icon.svg">
+  <img align="center" alt="VueJS"src="https://www.svgrepo.com/show/452130/vue.svg" width="40" height="40">
+  <img align="center" alt="React" height="40" width="40" src="https://react.dev/images/brand/logo_dark.svg">
+  <img align="center" alt="Next.js" height="40" width="40" src="https://www.svgrepo.com/show/306466/next-dot-js.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="PHP" height="40" width="40" src="https://www.svgrepo.com/show/373966/php.svg"/>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rails" height="40" width="40" src="https://www.svgrepo.com/show/354252/rails.svg">
-  <img align="center" alt="VueJS"src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg" width="40" height="40">
-  <img align="center" alt="Next.js"src="https://www.svgrepo.com/show/354112/nextjs.svg" width="40" height="40">
   <img align="center" alt="Postgresql"src="https://www.svgrepo.com/show/354200/postgresql.svg" width="40" height="40">
   <img align="center" alt="Mysql"src="https://www.svgrepo.com/show/342053/mysql.svg" width="40" height="40">
   <img align="center" alt="OracleDB"src="https://www.svgrepo.com/show/355152/oracle.svg" width="40" height="40">
