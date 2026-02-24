@@ -1,72 +1,77 @@
-# 👋 Hi there! I'm Elisson Guímel
+# 👋 Hi — I'm Elisson Guímel
 
-### 💻 Full Stack Software Engineer | Ruby on Rails Specialist | Tech Innovator
+## AI-Driven Systems & Product Engineer  
+Ruby on Rails Ecosystem • Scalable SaaS Platforms • System Architecture
 
-With over **5 years of experience**, I specialize in building scalable and high-performance digital solutions using technologies like **Ruby on Rails**, **JavaScript (Vue, React, Next.js)**, **Python**, and **Java**. I thrive on solving complex problems, leading teams, and delivering quality code with a strong focus on UX and performance.
+I design and build software systems where **architecture, product strategy and AI-driven engineering intersect**.
 
-I'm currently focused on projects that blend **software engineering** with **data-driven decision-making** and **emerging technologies** like AI and automation.
-
----
-
-## 🎯 What I'm Up To
-
-- 📚 Studying Data Science & Machine Learning to integrate AI into real-world products  
-- 🔁 Practicing Agile methodologies (Scrum, Kanban) and TDD in everyday work  
-- 🎸 Guitarist, gamer, and family man when I’m not coding
+With experience across SaaS, fintech and govtech environments, my focus goes beyond writing features — I work on designing systems that remain scalable, maintainable and adaptable as products evolve.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧠 What I Solve
 
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://www.svgrepo.com/show/374055/ruby.svg" height="40" alt="Ruby"/>
-  <img src="https://www.svgrepo.com/show/354252/rails.svg" height="40" alt="Rails"/>
-  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" height="40" alt="JavaScript"/>
-  <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" height="40" alt="TypeScript"/>
-  <img src="https://www.svgrepo.com/show/452130/vue.svg" height="40" alt="Vue.js"/>
-  <img src="https://react.dev/images/brand/logo_dark.svg" height="40" alt="React"/>
-  <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://www.svgrepo.com/show/373966/php.svg" height="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://www.svgrepo.com/show/342053/mysql.svg" height="40" alt="MySQL"/>
-  <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="40" alt="OracleDB"/>
-  <img src="https://www.svgrepo.com/show/445720/docker.svg" height="40" alt="Docker"/>
-  <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" height="40" alt="Kubernetes"/>
-</div>
+I enjoy working on problems that require:
+
+- Designing scalable backend architectures
+- Translating complex business logic into sustainable technical systems
+- Building AI-ready platforms and automation workflows
+- Improving developer experience and operational reliability
+- Connecting product vision with engineering execution
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Current Focus
 
-- 🔐 **Guard Center** – SaaS for real-time geolocation and BI dashboards for private security  
-- 💳 **CreditCorpBR** – B2B financial solutions platform with advanced credit systems  
-- 🤖 **WTF Tecnologia** – Smart chatbot and contact center system using Dialogflow + Node.js  
-- 🌱 **Biomass & Carbon Platform (in progress)** – Integrating geospatial data with AI for sustainability reporting
-
-> Explore more in my [repositories](https://github.com/Guistoff081)!
-
----
-
-## 📈 GitHub Stats
-
-<div align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Guistoff081&count_private=true&show_icons=true&theme=dracula&bg_color=DEG,78b6b7,124266,021127" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guistoff081&layout=donut&theme=dracula&bg_color=DEG,021127,124266,78b6b7" />
-</div>
+- AI-first software engineering
+- LLM integrations & intelligent automation
+- Event-driven architectures
+- High-performance Ruby on Rails applications
+- Cloud-native SaaS platforms
 
 ---
 
-## 📬 Let's connect
+## 🧱 Selected Projects
 
-<div>
-  <a href="mailto:silva_elisson15@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/elisson-g" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/el.guistoff/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+### 🔐 Guard Center
+Security SaaS platform with real-time geolocation, operations dashboards and analytics.
+
+### 💳 Payments & Financial Platforms
+Architecture and development of unified checkout systems and scalable payment workflows.
+
+### 🌱 Biomass & Carbon Platform (AI + Geospatial)
+AI-driven sustainability platform integrating geospatial data for carbon analysis and reporting.
 
 ---
 
-### ⭐ Thanks for visiting!  
-If you like what you see, feel free to drop a ⭐ or connect — let's build something awesome together!
+## ⚙️ Engineering Stack (Selected)
+
+Ruby on Rails (core expertise) • JavaScript Ecosystem • PostgreSQL • Docker • Cloud Infrastructure • API Design • Distributed Systems
+
+Ruby and Rails are central to my engineering philosophy, enabling expressive systems, strong developer experience and sustainable architecture.
+
+---
+
+## 🧭 Engineering Philosophy
+
+I believe strong software systems emerge from clarity, simplicity and long-term thinking.
+
+My approach combines:
+
+- Ruby-first development to build expressive and maintainable systems
+- Product-oriented architecture focused on real business outcomes
+- Designing for evolution — systems should grow without increasing complexity
+- Developer experience as a core architectural concern
+- Choosing tools intentionally to support scalability and sustainability
+
+Software is not only about solving today's problems — it's about enabling future change without friction.
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/elisson-g
+- 📧 Email: silva_elisson15@outlook.com
+
+---
+
+⭐ If you find something interesting here, feel free to explore my repositories or connect!
